@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-WebApp_Lab2-b18e1a44-7e22-4d7c-99ee-50a3b54af8b0</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="10.0.2" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="10.0.2" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="3.14.1" />
+    <PackageReference Include="Microsoft.Identity.Web.UI" Version="3.14.1" />
+    <PackageReference Include="Microsoft.Identity.Web.DownstreamApi" Version="3.14.1" />
+  </ItemGroup>
+
+</Project>
