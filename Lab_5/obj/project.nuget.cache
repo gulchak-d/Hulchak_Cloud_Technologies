@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xDpxVqBjEEY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Victus\\source\\repos\\Lab_5\\Lab_5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Victus\\.nuget\\packages\\azure.ai.textanalytics\\5.3.0\\azure.ai.textanalytics.5.3.0.nupkg.sha512",
+    "C:\\Users\\HP Victus\\.nuget\\packages\\azure.core\\1.33.0\\azure.core.1.33.0.nupkg.sha512",
+    "C:\\Users\\HP Victus\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\HP Victus\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
