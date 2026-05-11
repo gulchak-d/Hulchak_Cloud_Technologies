@@ -7,8 +7,8 @@ namespace Lab5_Console
 {
     class Program
     {
-        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("9tE263Cj5GAz6g9fuv26PrWyL3D5HIc0fEjkejRVEt2s2V3oEiB1JQQJ99CDAC5RqLJXJ3w3AAAaACOGnuAz");
-        private static readonly Uri endpoint = new Uri("https://lab5-ai-language-hulchak.cognitiveservices.azure.com/");
+        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("KEY");
+        private static readonly Uri endpoint = new Uri("URL");
 
         static void Main(string[] args)
         {
